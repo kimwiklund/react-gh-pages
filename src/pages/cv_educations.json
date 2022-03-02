@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "School": "Umeå Universitet",
+        "Education": "Kandidatexamen i Biologi",
+        "Dates": "2013-2015"
+    },
+    {
+        "id": 2,
+        "School": "Umeå Universitet",
+        "Education": "Naturguidesprogrammet",
+        "Dates": "2011-2013"
+    },
+    {
+        "id": 3,
+        "School": "Nordviks Naturbruksgrmnasium",
+        "Education": "Miljö & Naturvård",
+        "Dates": "2007-2010"
+    }
+    
+]
+
+    

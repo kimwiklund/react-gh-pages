@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "Company": "Trafik & Parkavdelningen",
+        "Employment": "Anläggningsarbetare",
+        "Dates": "2019 (6/5 - 8/11)"
+    },
+    {
+        "id": 2,
+        "Company": "Trafik & Parkavdelningen",
+        "Employment": "Anläggningsarbetare",
+        "Dates": "2018 (2/5 - 30/11)"
+    },
+    {
+        "id": 3,
+        "Company": "Östmans Mark & Trädgård",
+        "Employment": "Trädgårdsarbetare",
+        "Dates": "2017 (20/4 - 20/10)"
+    }
+    
+]
