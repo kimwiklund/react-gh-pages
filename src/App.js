@@ -13,6 +13,7 @@ export default function App() {
   return (
     <BrowserRouter>
     <Routes>
+      <Route exact path="react-gh-pages" />
       <Route path="/" element={<Layout />}>
       <Route index element={<Home />} />
       <Route path="cv" element={<Cv />} />
