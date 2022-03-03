@@ -11,9 +11,8 @@ import NoPage from "./pages/NoPage";
 
 export default function App() { 
   return (
-    <BrowserRouter>
-    <Routes>
-      <Route exact path="react-gh-pages" />
+    <BrowserRouter basename="/react-gh-pages">
+    <Routes>    
       <Route path="/" element={<Layout />}>
       <Route index element={<Home />} />
       <Route path="cv" element={<Cv />} />
