@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Educations from "./cv_educations.json";
 import Employments from "./cv_employments.json";
+import Footer from "./Footer";
 
 const Cv = () => {
 
@@ -10,6 +11,7 @@ const Cv = () => {
 
       <h1>Mitt Cv</h1>
       <h2>Utbildningar</h2>
+      <Footer/>
       <ul>
 
         {Educations.map((record, i) => (

@@ -8,6 +8,7 @@ import Home from "./pages/Home";
 import Layout from "./pages/Layout";
 import Profile from "./pages/Profile";
 import NoPage from "./pages/NoPage";
+import Footer from "./pages/Footer";
 
 export default function App() { 
   return (
@@ -20,6 +21,7 @@ export default function App() {
       <Route path="about" element={<About />} />
       <Route path="profile" element={<Profile />} />
       <Route path="*" element={<NoPage />} />
+      <Route path="footer" element={<Footer />} />
       </Route>
     </Routes>
     </BrowserRouter>
