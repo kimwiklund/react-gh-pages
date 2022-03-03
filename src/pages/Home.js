@@ -1,9 +1,12 @@
+import logo from "kim2.jpg"
 const Home = () => {
     return(
         <div>
             <h1>Välkommen</h1>
             <p>Till min sida</p>
-            <h2></h2>
+            return <img src={logo} alt="kim2" />
+
+            
         </div>
     );
 };
