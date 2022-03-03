@@ -1,4 +1,5 @@
 import Footer from "./Footer";
+const gitHubUrl = "https://api.github.com/users/kimviklund/repos"
 const Profile = () => {
     return(
         <div>
